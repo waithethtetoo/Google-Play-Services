@@ -7,4 +7,25 @@
     <string name="map_activity">Map Activity</string>
     <string name="geofence_my_home">Home Sweet Home</string>
     <string name="geofence_my_office">My Office</string>
+    <string name="geofence_not_available">Geofence service is not available now.</string>
+    <string name="geofence_registered_too_many">Your app has registered too many Geofences.</string>
+    <string name="geofence_provided_too_many_pending_intent">You have provided too many PendingIntents to addGeo.</string>
+    <string name="geofence_unkown_error">Geofence unkown errors.</string>
+    <string name="geofence_entered_into">Entered into geofence(s)</string>
+    <string name="geofence_exit">Exited from geofence(s)</string>
+    <string name="geofence_unkown_transition">Unknown geofence transition</string>
+    <string name="get_current_place_name">Get Current Place Name</string>
+    <string name="in_vehicle">In Vehicle</string>
+    <string name="on_bicycle">On Bicycle</string>
+    <string name="on_foot">On Foot</string>
+    <string name="running">Runnin</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="unknown">Unknown</string>
+    <string name="walking">Walking</string>
+    <string name="unidetifiable">Unidetifiable Activity</string>
+    <string name="request_activity_update">Request Activity Updates</string>
+    <string name="remove_activity_update">Remove Activity Updates</string>
+    <string name="add_geofences">Add Geofences</string>
+    <string name="start_place_picker">Start Place Picker</string>
 </resources>

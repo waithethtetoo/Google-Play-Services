@@ -1,8 +1,10 @@
-package com.wtho.googleplayservices;
+package com.wtho.googleplayservices.utils;
 
 import android.content.res.Resources;
 
 import com.google.android.gms.maps.model.LatLng;
+import com.wtho.googleplayservices.GPSApp;
+import com.wtho.googleplayservices.R;
 
 import java.util.HashMap;
 

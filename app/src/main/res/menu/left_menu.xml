@@ -2,20 +2,20 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/user_current_location"
+            android:id="@+id/gps_user_current_location"
             android:checkable="true"
             android:icon="@drawable/ic_my_location_24dp"
             android:title="@string/user_current_location" />
         <item
-            android:id="@+id/activity_recognition"
+            android:id="@+id/gps_activity_recognition"
             android:icon="@drawable/ic_activity_24dp"
             android:title="@string/activity_recognition" />
         <item
-            android:id="@+id/geofences"
+            android:id="@+id/gps_geofences"
             android:icon="@drawable/ic_geofences_24dp"
             android:title="@string/geofences" />
         <item
-            android:id="@+id/map_activity"
+            android:id="@+id/gps_map_activity"
             android:icon="@drawable/ic_map_24dp"
             android:title="@string/map_activity" />
     </group>
